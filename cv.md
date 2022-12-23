@@ -9,8 +9,8 @@
 
 [Linkedin](https://www.linkedin.com/in/sergey-bataykin/)
 
-### > Back end web developer, looking for full-time position to being a part of a hard working team.
-### > Fast learner, creative, excellent team player with good social skills.
+### Back end web developer, looking for full-time position to being a part of a hard working team.
+### Fast learner, creative, excellent team player with good social skills.
 
 ## Projects:
 ### Social network, 2022 (TypeScript, NestJS, MongoDB / PostgreSQL / TypeORM, Jest)
